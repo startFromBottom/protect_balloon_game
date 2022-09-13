@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1f583f04e43e417a88af81e10be14ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - square: {fileID: 6253587857173435350, guid: ed0a49f69a5dd456ba82a074fb38f1b1, type: 3}
+  - gameOverText: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
